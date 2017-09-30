@@ -1,0 +1,412 @@
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.apk
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android-Signed.apk
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.Support.Android.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\AndHUD.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.csprojResolveAssemblyReference.cache
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\bin\TeacherHiring.Android.apk
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\icon.png
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\values\styles.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\profle256.png
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\R.cs.flag
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\uploadflags.txt
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.Interface.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Splat.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.Android.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\wjimenez\documents\visual studio 2017\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.apk
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android-Signed.apk
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.Support.Android.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\AndHUD.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.csprojResolveAssemblyReference.cache
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.dll
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.pdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\bin\TeacherHiring.Android.apk
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\icon.png
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\values\styles.xml
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\profle256.png
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\R.cs.flag
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\uploadflags.txt
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Splat.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.Android.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\lmacias\Documents\Projects\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll.config
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.apk
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android-Signed.apk
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.Support.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\AndHUD.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLite-net.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLite-net.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLite-net.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.csprojResolveAssemblyReference.cache
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.pdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\bin\TeacherHiring.Android.apk
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\values\styles.xml
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\profle256.png
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\R.cs.flag
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\uploadflags.txt
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Splat.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll.config
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.apk
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android-Signed.apk
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.Support.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\AndHUD.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLite-net.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Splat.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLite-net.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\SQLite-net.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.csprojResolveAssemblyReference.cache
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.dll
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\TeacherHiring.Android.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\bin\TeacherHiring.Android.apk
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\values\styles.xml
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\res\drawable\profle256.png
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\R.cs.flag
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\uploadflags.txt
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\bin\Debug\TeacherHiring.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Acr.UserDialogs.Interface.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Splat.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\TeacherHiring.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
