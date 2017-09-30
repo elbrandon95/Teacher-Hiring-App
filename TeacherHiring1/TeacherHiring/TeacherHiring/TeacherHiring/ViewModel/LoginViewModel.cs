@@ -74,7 +74,6 @@ namespace TeacherHiring
                     NavigateToCurrentPage (new TeacherHiring.Views.Menu());
                 }
                 
-                
                 /*var deviceInfo = CrossDeviceInfo.Current;
                 await Application.Current.MainPage.DisplayAlert("Id", deviceInfo.Id, "Ok");
                 await Application.Current.MainPage.DisplayAlert("Language", deviceInfo.Idiom.ToString(), "Ok");

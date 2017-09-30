@@ -168,7 +168,6 @@ C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHi
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.csprojResolveAssemblyReference.cache
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.MainPage.xaml.g.cs
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.App.xaml.g.cs
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MasterDetailMaster.xaml.g.cs
@@ -186,3 +185,5 @@ C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHi
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.MaestroCursos.xaml.g.cs
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.dll
 C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.pdb
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.Views.SolicitarAsesoria.xaml.g.cs
+C:\Users\bespinos\Downloads\TeacherHiring1\TeacherHiring\TeacherHiring\TeacherHiring\obj\Debug\TeacherHiring.csprojResolveAssemblyReference.cache

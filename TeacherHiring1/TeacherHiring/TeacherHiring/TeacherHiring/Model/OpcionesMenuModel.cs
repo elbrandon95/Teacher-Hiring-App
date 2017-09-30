@@ -14,12 +14,12 @@ namespace TeacherHiring.Model
         public string viewName { get; set; }
         public Type TargetType { get; set; }
 
-        public OpcionesMenuModel(int _id, string _text, string _viewName)
+        public OpcionesMenuModel(int _id, string _text, string _viewName, Type _type)
         {
             this.Id = _id;
             this.Title = _text;
             this.viewName = _viewName;
-            this.TargetType = typeof(MaestroAltaCurso);
+            this.TargetType = _type;
         }
     }
     class OpcionesMenuMetodo
@@ -30,13 +30,13 @@ namespace TeacherHiring.Model
 
             if (tipoUsr == 1)
             {
-                opciones.Add(new OpcionesMenuModel(1, "Dar Asesoría", "MaestroAltaCurso"));
-                opciones.Add(new OpcionesMenuModel(2, "Tus Asesorías", "MaestroAltaCurso"));
+                opciones.Add(new OpcionesMenuModel(1, "Dar Asesoría", "MaestroCursos",typeof(MaestroCursos)));
+                opciones.Add(new OpcionesMenuModel(2, "Tus Asesorías", "MaestroCursos", typeof(MaestroCursos)));
             }
             else
             {
-                opciones.Add(new OpcionesMenuModel(1, "Buscar Asesoría", "MaestroAltaCurso"));
-                opciones.Add(new OpcionesMenuModel(2, "Tus Asesorías", "MaestroAltaCurso"));
+                opciones.Add(new OpcionesMenuModel(1, "Buscar Asesoría", "SolicitarAsesoria", typeof(SolicitarAsesoria)));
+                opciones.Add(new OpcionesMenuModel(2, "Tus Asesorías", "SolicitarAsesoria", typeof(SolicitarAsesoria)));
             }
             return opciones;
         }

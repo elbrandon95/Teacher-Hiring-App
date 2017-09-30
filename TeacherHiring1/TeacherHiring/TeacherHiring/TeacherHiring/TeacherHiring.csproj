@@ -90,6 +90,9 @@
     <Compile Include="Views\ShellPage.xaml.cs">
       <DependentUpon>ShellPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\SolicitarAsesoria.xaml.cs">
+      <DependentUpon>SolicitarAsesoria.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\SolicitudPage.xaml.cs">
       <DependentUpon>SolicitudPage.xaml</DependentUpon>
     </Compile>
@@ -248,6 +251,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Views\MaestroCursos.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\SolicitarAsesoria.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

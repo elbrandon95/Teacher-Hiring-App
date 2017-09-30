@@ -5,7 +5,8 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
-
+using TeacherHiring.DataBase.Access;
+using TeacherHiring.DataBase.Model;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -14,12 +15,16 @@ namespace TeacherHiring.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MenuDetail : ContentPage
     {
-        public string myProperty { get; } = "ASDASD";
+        public string myProperty { get; }
+        public string userName { get; }
+        public UsuarioDataAccess dataAccess = new UsuarioDataAccess();
+        public Usuario usuario = new Usuario();
         public MenuDetail()
         {
-
+            usuario = dataAccess.GetUser();
             InitializeComponent();
-            myProperty = "Esto se puede?";
+            myProperty = "Bienvenido";
+            userName = usuario.Nombre;
             BindingContext = this;
 
             //var map = new Map(

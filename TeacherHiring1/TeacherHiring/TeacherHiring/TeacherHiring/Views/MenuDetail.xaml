@@ -4,6 +4,7 @@
              x:Class="TeacherHiring.Views.MenuDetail"
              Title="Detail">
     <StackLayout Padding="10">
-        <Label x:Name="lblBienvenida" Text="{Binding myProperty}"/>
+        <Label x:Name="lblBienvenida" YAlign="Center" XAlign="Center" Text="{Binding myProperty}"/>
+        <Label x:Name="lblUserName" YAlign="Center" XAlign="Center" Text="{Binding userName}"/>
     </StackLayout>
 </ContentPage>
